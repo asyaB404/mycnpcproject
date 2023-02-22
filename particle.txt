@@ -1,7 +1,0 @@
-/particleex image endRod ~-15 ~1 ~15 a1.png 1 90 0 0 not 10.0 0 0 0 0 40 
-
-"a=0.05;(vx,,vz)=(-sin(a),-13.8,-cos(a),,cos(a),-15.6,-sin(a))*(x*2*sin(a),,0.1,,z*2*sin(a))"
-
-
-/particleex parameter endRod ~ ~ ~ 1 0 0 0
-/particleex parameter endRod ~ ~ ~ 0 0 0 0 1 0 0 0 0 100 "x=t;y=x"
